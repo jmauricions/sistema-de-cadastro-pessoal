@@ -24,7 +24,7 @@ Visual Studio Code no Windows.
 
 - - HTML
 - JavaScript
-CSS
+-CSS
 ## Descrição do site
 
 ### HTML
@@ -35,4 +35,15 @@ Então no corpo, no qual há um cabeçalho (`<header>`) contendo um título de p
 
 ### JavaScript
 
-É um script interno. Nele, temos uma função que checa se nós quiseremos enviar e abre o diálogo para nos perguntar, senão cancelamos a janela, e outra função que informa que limparemos o formulário ao clicarmos naquele botão. 
+É um script interno. nele, temos a função Mmsg1, onde exibe um alerta de boas vindas, quando o cliente acessa o formulário. Temos também a função formatar nome, onde impede que o cliente digite números, para que ele digite somente letras.
+Tem a função nrg, onde insere um traço no campo RG.
+Tem a função formata CPF, função para completar o CPF, com pontos e traço.
+ Functiontelcelular: função para completar celular com espaço e traço
+functionftelefoneFixo
+função para completar telefone fixo com espaço e traço
+      function pergunta1
+      Checa se quiser enviar no diálogo
+      function pergunta2
+      Uma função para informar e limpar
+      CSS
+      Adicionei cores simples, para deixar um bom visual na página.
